@@ -8,7 +8,7 @@
 
     <h1>All about rabbits!</h1>
     
-    <h2>Basic nfo</h2>
+    <h2>Basic</h2>
     
     <p>Rabbits are little creatures with long ears and puffy tails, and they move their nose up and down in an adorable way. They eat the most orange vegetables in our world, and they reproduce more than any human ever has.</p>
     
